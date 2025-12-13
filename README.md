@@ -176,3 +176,5 @@ Local SHAP Force Plot – explains why THIS traffic sample is classified.
 Global SHAP Summary Plot – shows which features drive the model overall.
 
 SHAP tables – numerical importance values for transparency.
+
+Project link: https://xai-driven-hybrid-network-intrusion-detection-agent-kadace5rlg.streamlit.app/
